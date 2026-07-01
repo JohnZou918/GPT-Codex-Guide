@@ -49,7 +49,7 @@ flowchart TB
 | 第 2 章：为什么要学习 ChatGPT 与 Codex | 理解学习价值、工具作用与基本协作方法 | [开始学习](docs/02-为什么安装这些软件.md) |
 | 第 3 章：ChatGPT 是什么 | 认识 ChatGPT 的能力、边界与正确使用方法 | [开始学习](docs/03-Windows安装.md) |
 | 第 4 章：Codex 是什么 | 理解 Codex 的能力、边界与协作模式 | [开始学习](docs/04-Mac安装.md) |
-| 第 5 章：GitHub 使用 | 创建账号与仓库，认识在线项目页面 | [开始学习](docs/05-GitHub使用.md) |
+| 第 5 章：GitHub 是什么 | 理解 GitHub、Git 的区别与在线协作作用 | [开始学习](docs/05-GitHub使用.md) |
 | 第 6 章：Git 使用 | 理解版本管理，完成提交、拉取和推送 | [开始学习](docs/06-Git使用.md) |
 | 第 7 章：VS Code 使用 | 打开项目、编辑 Markdown、使用终端和 Git | [开始学习](docs/07-VSCode使用.md) |
 | 第 8 章：Codex 使用 | 描述任务、限定边界、检查修改并验收 | [开始学习](docs/08-Codex使用.md) |
