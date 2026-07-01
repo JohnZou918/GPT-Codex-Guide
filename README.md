@@ -1,4 +1,4 @@
-﻿# GPT-Codex-Guide
+# GPT-Codex-Guide
 
 ## 《从 ChatGPT 到 Codex——零基础 AI 开发完全指南》
 
@@ -91,6 +91,13 @@ flowchart TB
 | V10.0 | 企业开发 |
 
 详细计划参见 [ROADMAP](ROADMAP.md)，版本变化参见 [CHANGELOG](CHANGELOG.md)。
+
+## 教材标准与辅助导航
+
+- [分周学习路线](docs/learning-path.md)：从第一周到完成全书的学习安排。
+- [中文术语表](docs/glossary.md)：用零基础语言解释全书常用术语。
+- [图片与写作风格指南](docs/style-guide.md)：统一截图、Mermaid、代码块和 Markdown。
+- [唯一章节模板](templates/chapter-template.md)：所有新章节必须从此模板开始。
 
 ## 如何参与
 
